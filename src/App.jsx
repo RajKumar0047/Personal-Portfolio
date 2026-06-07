@@ -51,8 +51,8 @@ const projects = [
       'A medical form builder for creating flexible, reusable forms with a clean React interface.',
     tags: ['React', 'Tailwind CSS', 'JavaScript'],
     thumbnail: formBuilderThumbnail,
-    liveDemo: '',
-    github: '',
+    liveDemo: 'https://healthcare-form-builder.vercel.app/',
+    github: 'https://github.com/RajKumar0047/Healthcare-Form-Builder/',
   },
 ]
 
