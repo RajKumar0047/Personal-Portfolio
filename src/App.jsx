@@ -23,6 +23,7 @@ import {
 import { TbApi } from 'react-icons/tb'
 import { VscVscode } from 'react-icons/vsc'
 import formBuilderThumbnail from './assets/Form-Builder-Live-Project.jpeg'
+import stonevisualizerThumbnail from './assets/Stone-Visualizer-Live-Project.png'
 import profileImage from './assets/Profile-Pic.png'
 import resumePdf from './documents/Linmalayraj_Kumar_Resume.pdf'
 import './App.css'
@@ -53,6 +54,15 @@ const projects = [
     thumbnail: formBuilderThumbnail,
     liveDemo: 'https://healthcare-form-builder.vercel.app/',
     github: 'https://github.com/RajKumar0047/Healthcare-Form-Builder/',
+  },
+  {
+    title: 'Stone Visualizer',
+    description:
+      'Interactive stone visualization platform built with React and Tailwind CSS. Preview granite, marble, and other materials across multiple room environments',
+    tags: ['React', 'Tailwind CSS', 'JavaScript'],
+    thumbnail: stonevisualizerThumbnail,
+    liveDemo: 'https://stone-image-visualizer.vercel.app/',
+    github: 'https://github.com/RajKumar0047/Stone-Image-Visualizer',
   },
 ]
 
