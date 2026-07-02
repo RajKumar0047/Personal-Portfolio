@@ -171,7 +171,7 @@ function App() {
                 Linmalayraj <strong>Kumar</strong>
               </h1>
               <h2>
-                MERN Stack <strong>Developer</strong>
+                Full Stack <strong>Developer</strong>
               </h2>
               <p className="hero-description">
                 I build fast, scalable and user-friendly web applications using MongoDB,
@@ -234,12 +234,12 @@ function App() {
               <span />
             </p>
             <h2>
-              MERN Stack <strong>Developer.</strong>
+              Full Stack <strong>Developer.</strong>
             </h2>
 
             <div className="about-text">
               <p>
-                I'm Linmalayraj Kumar, a passionate MERN Stack Developer who loves turning ideas
+                I'm Linmalayraj Kumar, a passionate Full Stack Developer who loves turning ideas
                 into fast, scalable, and user-friendly web applications.
               </p>
               <p>
